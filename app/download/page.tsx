@@ -14,7 +14,7 @@ type FileItem = {
 }
 
 const fileList: { name: string; path: string }[] = [
-  { name: 'MateriRouting OSPF', path: 'materidownload.pdf' },
+  { name: 'Materi TJAT', path: 'materidownload.pdf' },
   { name: 'Logo SMK', path: 'picture1.jpg' },
   { name: 'Materi DJK', path: 'materidownload1.pdf' },
 ]
