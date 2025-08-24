@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="id">
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon.png" />
       </head>
       <body className={`${inter.className} bg-gradient-to-tr from-sky-100 via-white to-indigo-100 min-h-screen`}>
         {children}
